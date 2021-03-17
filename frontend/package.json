@@ -12,9 +12,10 @@
     "axios": "^0.18.0",
     "register-service-worker": "^1.5.2",
     "vue": "^2.5.17",
-    "vue-router": "^3.0.1",
-    "vue-raven": "^1.0.0",
     "vue-analytics": "^5.16.0",
+    "vue-raven": "^1.0.0",
+    "vue-router": "^3.0.1",
+    "vuetify": "^2.4.7",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
